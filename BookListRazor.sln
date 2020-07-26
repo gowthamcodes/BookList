@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookListRazor", "BookListRazor\BookListRazor.csproj", "{21FAD739-DC93-4EBA-8043-A148C7A82A57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21FAD739-DC93-4EBA-8043-A148C7A82A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FAD739-DC93-4EBA-8043-A148C7A82A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FAD739-DC93-4EBA-8043-A148C7A82A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FAD739-DC93-4EBA-8043-A148C7A82A57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD1CFE7A-0DAF-405A-B4C9-A8FB85310723}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/gowthamcodes
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BookListRazor\\BookListRazor.csproj
+		SccProjectName1 = BookListRazor
+		SccLocalPath1 = BookListRazor
+	EndGlobalSection
+EndGlobal
